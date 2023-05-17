@@ -1,4 +1,5 @@
 # Hello, I'm Ran 👋
+<img src="https://github.com/blueran21/blueran21/blob/main/front.png">
 
 ![Data Scientist | Software Engineer | General Assembly Graduate](https://img.shields.io/badge/Data%20Scientist-Software%20Engineer-blue)
 ![Education | M.Sc. in Software Engineering | Data Science Certificate](https://img.shields.io/badge/Education-M.Sc.%20in%20Software%20Engineering%20|%20Data%20Science%20Certificate-blueviolet)
