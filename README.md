@@ -1,4 +1,4 @@
-# Hello, I'm Ryan 👋
+# Hello, I'm Ran 👋
 
 ![Data Scientist | Software Engineer | General Assembly Graduate](https://img.shields.io/badge/Data%20Scientist-Software%20Engineer-blue)
 ![Education | M.Sc. in Software Engineering | Data Science Certificate](https://img.shields.io/badge/Education-M.Sc.%20in%20Software%20Engineering%20|%20Data%20Science%20Certificate-blueviolet)
@@ -23,7 +23,7 @@ I'm a passionate and dedicated data scientist and software engineer, holding a M
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ran-ma/) or send me an email at ranma636@gmail.com.
+Feel free to connect with me on [LinkedIn](https://github.com/blueran21) or send me an email at [].
 
 
 
