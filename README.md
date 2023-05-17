@@ -19,7 +19,7 @@ I'm a passionate and dedicated data scientist and software engineer, holding a M
 
 **Languages**: Python, SQL, JavaScript, etc.  
 **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, TensorFlow, etc.  
-**Tools**: Git, GitHub, Docker, Jupyter Notebook, etc.
+**Tools**: Git, GitHub, Jupyter Lab, etc.
 
 ## 📫 How to reach me
 
