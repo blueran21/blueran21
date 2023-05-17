@@ -6,21 +6,15 @@
 
 I'm a passionate and dedicated data scientist and software engineer, holding a Master's degree in Software Engineering and a Data Science Certificate from General Assembly. With a unique blend of skills in both areas, I am actively seeking opportunities to leverage my experience in data science, data analyst and data engineer roles.
 
-## 🌱 [Portfolio]()
-
-### Data Science vs. Software Engineering: Analyzing Subreddit Content with NLP and Classification Models
-- Developed a natural language processing (NLP) model to classify text posts from 'datascience' and 'softwareengineering' subreddits.
-- Implemented and compared various classification models, including Logistic Regression, Naïve Bayes, and Random Forest, to optimize the model’s performance.
-- Used ensemble methods, such as weighted averaging and stacking, to combine model predictions.
-- [Link to project](#)
-
-<!-- Add more projects as needed -->
 
 ## 📚 Skills
 
 **Languages**: Python, SQL, JavaScript, etc.  
 **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, TensorFlow, etc.  
 **Tools**: Git, GitHub, Jupyter Lab, etc.
+
+
+## 🌱 [Portfolio]()
 
 ## 📫 How to reach me
 
