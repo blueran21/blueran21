@@ -11,14 +11,14 @@ I'm a passionate and dedicated data scientist and software engineer, holding a M
 
 **Languages**: Python, SQL, JavaScript, etc.  
 **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, TensorFlow, etc.  
-**Tools**: Git, GitHub, Jupyter Lab, etc.
+**Tools**: Git, GitHub, Jupyter Lab, streamlit, flask, etc.
 
 
 ## 🌱 [Portfolio]()
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://github.com/blueran21) or send me an email at [].
+Feel free to connect with me on [LinkedIn](https://github.com/blueran21).
 
 
 
