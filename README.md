@@ -1,4 +1,4 @@
-# Hello, I'm Ran 👋
+# Hello, I'm Ryan 👋
 <img src="https://github.com/blueran21/blueran21/blob/main/front.png">
 
 ![Data Scientist | Software Engineer | General Assembly Graduate](https://img.shields.io/badge/Data%20Scientist-Software%20Engineer-blue)
