@@ -18,7 +18,7 @@ I'm a passionate and dedicated data scientist and software engineer, holding a M
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://github.com/blueran21).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ran-ma/).
 
 
 
