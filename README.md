@@ -14,7 +14,7 @@ I'm a passionate and dedicated data scientist and software engineer, holding a M
 **Tools**: Git, GitHub, Jupyter Lab, streamlit, flask, etc.
 
 
-## 🌱 [Portfolio]()
+## 🌱 [Portfolio](https://blueran21.github.io/)
 
 ## 📫 How to reach me
 
